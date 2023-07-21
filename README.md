@@ -49,3 +49,13 @@ I will preprocess the dataset by resizing the images and splitting it into train
 **After training the models,**
 
 I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the weather condition images.
+
+
+
+## after evaluation, `ResNet152V2`  model looks to be the best fit model in this case of American Sign Language Classification .
+
+
+**Future Scope**
+
+This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of art image labels in different classes.
+
