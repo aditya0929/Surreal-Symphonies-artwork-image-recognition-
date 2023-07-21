@@ -116,13 +116,6 @@ Replace placeholders with specific values for your classification task and data.
     training accuracy,
     validation accuracy
 
-8. Model prediction and evaluation
-
-9. Finally, Training and Validation Metrics Visualization
-
-10. Accuracy Evaluation and Confusion Matrix
-
-11. Additionally , the model architecture can also be visualized .
 
 ### Learning resources 
   
