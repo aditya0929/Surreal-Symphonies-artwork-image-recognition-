@@ -38,3 +38,14 @@ Xception is a powerful deep convolutional neural network architecture widely uti
 | Xception  |   94%    |
 | InceptionV3 | 94% |
 | ResNet152V2 | 97% |
+
+
+Since the models' decent levels of accuracy(94% and above) means that most of their pictures will be almost having similar predicted labels with a small room for mistake, the anticipated labels for the sign image labels are as are visualised as follows.
+
+**Throughout the project,** 
+
+I will preprocess the dataset by resizing the images and splitting it into training,validation and testing sets. For training, I will employ a loss function suitable for image segmentation, such as cross-entropy loss, and optimize the models using technique like  Adam optimization
+
+**After training the models,**
+
+I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the weather condition images.
