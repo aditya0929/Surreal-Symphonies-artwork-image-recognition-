@@ -25,3 +25,16 @@ To implement InceptionV3, we start by loading the pre-trained model, which comes
 `ResNet152v2`
 
 i had tried different resnet models for the task but ResNet152v2 seems to have performed the best as it reached an accuracy score of 94% within 10 iterations .  To fine-tune the model for our specific dataset, i had freezed the layers to preserve the learned representations. residual blocks  allows the network to effectively capture multi-scale features and learn intricate representations
+
+`Xception`
+
+Xception is a powerful deep convolutional neural network architecture widely utilized in image classification tasks. Developed by Google researchers, Xception is inspired by the Inception architecture but introduces notable modifications to enhance its performance. The key innovation lies in the novel use of depth-wise separable convolutions, which aim to efficiently capture spatial and channel-wise information separately. This approach drastically reduces the number of parameters in the model, resulting in a more lightweight yet highly accurate network. Xception has demonstrated exceptional results on various image recognition challenges, making it a popular choice for tasks that demand both accuracy and efficiency. Its ability to handle complex feature extraction and its relatively smaller model size make it particularly well-suited for applications in resource-constrained environments, such as mobile devices and embedded systems.
+
+
+**Accuracy Comparison**
+
+| `Model`  | `Accuracy` |
+|--------|----------|
+| Xception  |   94%    |
+| InceptionV3 | 94% |
+| ResNet152V2 | 97% |
