@@ -1,6 +1,6 @@
 # Artwork Image Recognition / https://github.com/World-of-ML/DL-Simplified/issues/356
 
-to predict correct artwork image labels corresponding to their corresponding sign images
+to predict correct artwork image labels corresponding to their corresponding artwork images
 
 
 
