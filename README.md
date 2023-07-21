@@ -51,6 +51,8 @@ I will preprocess the dataset by resizing the images and splitting it into train
 I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the weather condition images.
 
 
+![image](https://github.com/aditya0929/Surreal-Symphonies-artwork-image-recognition-/assets/127277877/028bc26c-e372-47ba-b494-80111950d156)
+
 
 ## after evaluation, `ResNet152V2`  model looks to be the best fit model in this case of American Sign Language Classification .
 
